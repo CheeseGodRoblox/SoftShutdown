@@ -1,5 +1,5 @@
 # Cheese God's Soft Shutdown
-## This script will allow you to shut down servers while (hopefully) getting players with the players they were last with
+## This script will allow you to shut down servers while getting players with the players they were last with
 
 # Credits:
 This script was originally created by Merely at https://github.com/MerelyRBLX/ROBLOX-Lua/blob/master/SoftShutdown.lua
